@@ -87,6 +87,7 @@ Again plz
 Sex
 <input type="radio" name="gender" value="M">Male
 <input type="radio" name="gender" value="F" checked="checked">Female
+</br>
 Favorite sports
 <input type="checkbox" name="sports" value="1"> Running
 <input type="checkbox" name="sports" value="2"> Hiking
