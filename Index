@@ -81,9 +81,9 @@
 Account
 <input type="text" name="account" value="Type HERE Sunshine"/></br>
 Password
-<input type="password" name="password" value=" Type ur secret order!"/></br>
+<input type="password" name="password" value=" 12345!"/></br>
 Again plz
-<input type="password" name="password" value=" Type ur secret order!"/></br>
+<input type="password" name="password" value="12345!"/></br>
 Sex
 <input type="radio" name="gender" value="M">Male
 <input type="radio" name="gender" value="F" checked="checked">Female
@@ -93,6 +93,8 @@ Favorite sports
 <input type="checkbox" name="sports" value="2"> Hiking
 <input type="checkbox" name="sports" value="3"> Wondering
 <input type="checkbox" name="sports" value="4"> Dreaming
+<label>Description</label>
+<textarea rows="10" cols="50"> Don't be shy,just record…</textarea>
 </form>
 <label>
 </label>
