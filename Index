@@ -92,7 +92,8 @@ Favorite sports
 <input type="checkbox" name="sports" value="1"> Running
 <input type="checkbox" name="sports" value="2"> Hiking
 <input type="checkbox" name="sports" value="3"> Wondering
-<input type="checkbox" name="sports" value="4"> Dreaming</br>
+<input type="checkbox" name="sports" value="4"> Dreaming
+</br>
 <label>Description</label>
 <textarea rows="10" cols="50"> Don't be shy,just record…</textarea>
 </form>
