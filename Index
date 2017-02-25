@@ -120,7 +120,7 @@ Favorite sports
 <label>Description</label>
 <textarea rows="10" cols="50"> Don't be shy,just record…</textarea>
 </br>
-<input type="submit" value="Are you sure?" name="confirm-btn"/>
+<input type="submit" value="Are you sure?" class="confirm-btn"/>
 </form>
  </div>
 </body>
