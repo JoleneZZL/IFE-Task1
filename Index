@@ -6,7 +6,8 @@
 <link href="./style.css" type="text/css" rel="stylesheet"/>
 </head>
 <body>
-<div id="narv">
+<div class="container"> 
+ <div id="narv">
 <img src="./LOGO.png" alt="logo">
 <h1>You never know you are so cool!</h1>
  <div class="link">
@@ -15,8 +16,7 @@
 <a href="#">Choose one plz</a>
 <a href="#">Why you late</a>
  </div>
-</div>
-<div class="container"> 
+ </div>
 <div id="Part_1">
 <h2>You said you won't give up</h2>
 <h2>How can you leave me alone</h2>
