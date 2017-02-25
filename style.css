@@ -37,8 +37,8 @@ body{
   color:#ffb600;
 }
 #Part_1{
-  margin:25px;
-  padding:0 35px 35px 35px;
+  margin:0px 25px 25px 25px;
+  padding:35px;
   box-shadow:10px 10px 5px #ccc;
   background-color:#6c8dd5;
 }
