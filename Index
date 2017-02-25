@@ -6,7 +6,7 @@
 <link href="./style.css" type="text/css" rel="stylesheet"/>
 </head>
 <body>
-<div class="container"> 
+<div class="container">
  <div id="narv">
 <img class="logo" src="./LOGO.png" alt="logo">
 <h1>You never know you are so cool!</h1>
@@ -113,9 +113,9 @@ Favorite sports
 <textarea rows="10" cols="50"> Don't be shy,just record…</textarea>
 </form>
  </div>
+</div>
 </body>
 <foot>
 @private doc from J
 </foot>
-</div>
 </html>
