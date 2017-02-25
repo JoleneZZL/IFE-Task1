@@ -1,31 +1,18 @@
 body{
-  margin:0 30px;
-  background-color:#162eae;
+  background-color:#dedede;
 }
-.container{
-  background-color:fff;
-  border:10px inset ccc;
-  padding:15px;
-}
-#narv{
-  background-color:#A67600;
-  height:60px;
-}
-#narv.logo{
+.header{
   position:relative;
-  float:left;
-  height:30px;
-  width:auto;
-  margin-left:5px;
-}
-#narv.h1{
+  color:#333;
+  display:block;
   font-family:comic sans;
-  float:left;
 }
-.link{
-  position:relative;
-  font-family:times new roman;
+.header h1{
+  color:#fff;
+}
+.nav_links{
+  position:absolute;
   float:right;
-  margin-right:15px;
+  display:block;
 }
   
