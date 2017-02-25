@@ -1,1 +1,28 @@
-
+body{
+  margin:0 30px;
+  background-color:2c17b1;
+}
+.container{
+  margin-top:60px;
+  background-color:fff;
+  border:10px inset ccc;
+}
+#narv{
+  position:fixed;
+  margin:0 30px auto 30px;
+  background-color:ffca00;
+  height:60px;
+  font-family:comic sans;
+}
+#narv.img{
+  float:left;
+  height:40px;
+  width:auto;
+  margin:10px auto 10px 10px;
+}
+.link{
+  font-family:times new roman;
+  size:12px;
+  float:right;
+}
+  
