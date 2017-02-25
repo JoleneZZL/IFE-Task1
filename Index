@@ -16,21 +16,25 @@
   </ul>
   </div>
  <div id="Part_1">
-<h2>You said you won't give up</h2>
+<h1>You said you won't give up</h1>
 <h2>How can you leave me alone</h2>
-<p>From Jolene 2017</p>
+<h3>From Jolene 2017</h3>
 </br>
 <p> Comeon you bad boy.You SAID I was your whole world, but you gave up on me first. That's no chance we can be together, I enjoy my wonderful life in 4 years now.And even I LEARN guitar and have my favorite band and basketball team, regret you! Comeon you bad boy.You SAID I was your whole world, but you gave up on me first. That's no chance we can be together, I enjoy my wonderful life in 4 years now.And even I LEARN guitar and have my favorite band and basketball team, regret you! Comeon you bad boy.You SAID I was your whole world, but you gave up on me first. That's no chance we can be together, I enjoy my wonderful life in 4 years now.And even I LEARN guitar and have my favorite band and <a href="http://www.nba.com/warriors/" target="_blank" title="click me!">basketball team</a>, regret you! </p>
+</br>
 <img src="./1.png" alt="GH">
+</br>
 <p> Comeon you bad boy.You SAID I was your whole world, but you gave up on me first. That's no chance we can be together, I enjoy my wonderful life in 4 years now.And even I LEARN guitar and have my favorite band and basketball team, regret you! Comeon you bad boy.You SAID I was your whole world, but you gave up on me first. That's no chance we can be together, I enjoy my wonderful life in 4 years now.And even I LEARN guitar and have my favorite band and basketball team, regret you! Comeon you bad boy.You SAID I was your whole world, but you gave up on me first. That's no chance we can be together, I enjoy my wonderful life in 4 years now.And even I LEARN guitar and have my favorite band and <a href="http://www.nba.com/warriors/" target="_blank" title="click me!">basketball team</a>, regret you! </p>
  </div>
  <div id="Part_2">
 <h1> So I be stronger now</h1>
 <h2> I even completed a national Marathon</h2>
-<p> Again form Jolene 2017</p>
+<h3> Again form Jolene 2017</h3>
 </br>
 <p> Comeon you bad boy.You SAID I was your whole world, but you gave up on me first. That's no chance we can be together, I enjoy my wonderful life in 4 years now.And even I LEARN guitar and have my favorite band and basketball team, regret you! Comeon you bad boy.You SAID I was your whole world, but you gave up on me first. That's no chance we can be together, I enjoy my wonderful life in 4 years now.And even I LEARN guitar and have my favorite band and basketball team, regret you! Comeon you bad boy.You SAID I was your whole world, but you gave up on me first. That's no chance we can be together, I enjoy my wonderful life in 4 years now.And even I LEARN guitar and have my favorite band and <a href="http://www.nba.com/warriors/">basketball team</a>, regret you! </p>
+</br>
 <img src="./2.jpg" alt="GH">
+</br>
 <ul>
 <li>Not to many story to tell</li>
 <li>Really want GSW can win the champion ring</li>
@@ -40,16 +44,22 @@
  <div id="Part_3">
 <h1>IMG</h1>
 <p> nice pic</p>
+</br>
 <img src="./3.jpg">
+</br>
 <p> nice pic</p>
+</br>
 <img src="./4.jpg">
+</br>
 <p> nice pic</p>
+</br>
 <img src="./5.jpg">
+</br>
  </div>
  <div id="Part_4">
 <h1> It's Friday night</h1>
 <h2> Enjoy this moment</h2>
-<p> Here the table comes.</p>
+<h3> Here the table comes.</h3>
 <table border="1px">
 <tr>
 <th>Name</th>
@@ -109,7 +119,8 @@ Favorite sports
 </br>
 <label>Description</label>
 <textarea rows="10" cols="50"> Don't be shy,just record…</textarea>
-<input type="submit" value="Are you sure?"/>
+</br>
+<input type="submit" value="Are you sure?" name="confirm-btn"/>
 </form>
  </div>
 </body>
