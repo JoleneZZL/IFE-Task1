@@ -1,31 +1,26 @@
 body{
-  margin:0 30px;
-  background-color:fff;
-}
-.container{
-  margin-top:0;
-  background-color:000;
-  border:10px inset #FFB600;
-  padding:20px;
+  margin:0;
+  background-color:#162eae;
 }
 #narv{
-  margin:0 30px auto 30px;
   background-color:#A67600;
-  height:auto;
+  height:60px;
 }
 #narv.logo{
+  position:relative;
   float:left;
-  height:20px;
+  height:30px;
   width:auto;
-  margin:5px auto 5px 5px;
+  margin-left:5px;
 }
 #narv.h1{
   font-family:comic sans;
   float:left;
 }
 .link{
+  position:relative;
   font-family:times new roman;
-  size:12px;
   float:right;
+  margin-right:15px;
 }
   
