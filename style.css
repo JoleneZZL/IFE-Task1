@@ -16,7 +16,8 @@ body{
 }
 .narv_links {
   position:absolute;
-  float:right;
+  right:2%;
+  top:30%;
 }
 .narv_links li{
   display:inline;
@@ -36,8 +37,27 @@ body{
 }
 #Part_1,#Part_2,#Part_3,#Part_4{
   margin:25px;
-  padding:25px;
+  padding:35px;
   box-shadow:10px 10px 5px #ccc;
   background-color:#fff;
+}
+.img{
+  display:inline-block;
+  border:1px solid #eee;
+}
+.confirm-btn{
+  display:block;
+  background-color:#3355d0;
+  color:white;
+  height:40px;
+  border-radius:15px;
+}
+th{
+  background-color:#333;
+  color:white;
+}
+table{
+  margin-left:10px;
+  width:100%
 }
   
