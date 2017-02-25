@@ -1,5 +1,7 @@
 body{
   background-color:#dedede;
+  margin:0;
+  padding:0;
 }
 .header{
   position:relative;
@@ -7,14 +9,12 @@ body{
   display:block;
   font-family:comic sans;
 }
-.header h1 li{
+.header h1{
   color:#fff;
 }
-.narv_links{
+.narv_links li{
   position:absolute;
   float:right;
-  display:block;
-}
-.narv_links li{
   display:inline;
+  color:#fff;
 }
