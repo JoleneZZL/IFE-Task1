@@ -35,7 +35,7 @@ body{
 .narv_links a :hover,.narv_links a:actived{
   color:#ffb600;
 }
-#Part_1,#Part_2,#Part_3,#Part_4,#siderbar{
+#Part_1,#Part_2,#Part_3,#Part_4,#sidebar{
   margin:25px;
   padding:35px;
   box-shadow:10px 10px 5px #ccc;
@@ -60,4 +60,7 @@ table{
   margin-left:10px;
   width:100%
 }
-  
+#sidebar{
+  margin-left:25%;
+  display:block;
+}
