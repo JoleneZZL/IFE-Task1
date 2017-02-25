@@ -43,18 +43,15 @@
  </div>
  <div id="Part_3">
 <h1>IMG</h1>
-<p> nice pic</p>
-</br>
+<p div class="img"> nice pic
 <img src="./3.jpg">
-</br>
-<p> nice pic</p>
-</br>
+</p>
+<p div class="img"> nice pic
 <img src="./4.jpg">
-</br>
-<p> nice pic</p>
-</br>
+</p>
+<p class="img"> nice pic
 <img src="./5.jpg">
-</br>
+</p>
  </div>
  <div id="Part_4">
 <h1> It's Friday night</h1>
