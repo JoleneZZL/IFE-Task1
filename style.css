@@ -6,18 +6,22 @@ body{
   margin-top:0;
   background-color:fff;
   border:10px inset #FFB600;
+  padding:20px;
 }
 #narv{
   margin:0 30px auto 30px;
   background-color:#A67600;
-  height:30px;
-  font-family:comic sans;
+  height:auto;
 }
-#narv.img{
+#narv.logo{
   float:left;
   height:20px;
   width:auto;
   margin:5px auto 5px 5px;
+}
+#narv.h1{
+  font-family:comic sans;
+  float:left;
 }
 .link{
   font-family:times new roman;
