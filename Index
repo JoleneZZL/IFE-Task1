@@ -8,7 +8,7 @@
 <body>
 <div class="container"> 
  <div id="narv">
-<img src="./LOGO.png" alt="logo">
+<img class="logo" src="./LOGO.png" alt="logo">
 <h1>You never know you are so cool!</h1>
    <div class="link">
 <a href="#">Tell a story</a>
