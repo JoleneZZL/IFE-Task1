@@ -3,16 +3,18 @@ body{
 }
 .header{
   position:relative;
-  color:#333;
+  background-color:#333;
   display:block;
   font-family:comic sans;
 }
-.header h1{
+.header h1 li{
   color:#fff;
 }
-.nav_links{
+.narv_links{
   position:absolute;
   float:right;
   display:block;
 }
-  
+.narv_links li{
+  display:inline;
+}
