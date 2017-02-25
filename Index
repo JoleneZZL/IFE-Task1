@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <title>GooseHouse</title>
+<link href="./style.css" type="text/css" rel="stylesheet"/>
 </head>
 <body>
 <h1>You never know you are so beautiful</h1>
