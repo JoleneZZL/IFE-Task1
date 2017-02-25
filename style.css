@@ -45,7 +45,7 @@ body{
 .img{
   display:inline-block;
   border:1px solid #eee;
-  width:60%;
+  width:100%;
 }
 .confirm-btn{
   display:block;
